@@ -1,8 +1,5 @@
 {  
   categorie:[
     [{"id_c":"1","nome":"Bibite"},{"id_c":"2","nome":"Antipasti"},{"id_c":"3","nome":"Primi"},{"id_c":"4","nome":"Secondi"},{"id_c":"5","nome":"Contorni"},{"id_c":"6","nome":"Dolci"},{"id_c":"7","nome":"Frutta"},{"id_c":"8","nome":"Digestivi"},{"id_c":"9","nome":"Pizze"},{"id_c":"10","nome":"Amari"},{"id_c":"14","nome":"Panini"}]
-],
- prodotti: [
-  
 ]
 }
